@@ -75,7 +75,7 @@
         <span class="px-2 py-1 bg-teal-100 text-teal-700 rounded">Tailwind CSS</span>
         </div>
         <a
-        href="https://github.com/your-repo"
+        href="https://github.com/RoyPeng126/roy-introduction"
         target="_blank"
         class="inline-block mt-4 text-emerald-600 hover:underline"
         >View Code</a>
