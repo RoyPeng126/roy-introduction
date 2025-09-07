@@ -6,6 +6,7 @@
       <p class="mt-4 text-gray-600">
         Hi, my name is Roy. I am a student who learning programming langguage, here is my profile:<br>
         Name: 彭宇承<br>
+        English Name: YU-CHENG (ROY) PENG<br>
         Birth: 2004/12/06<br>
         Interest: Music, Workout<br>
         School: National Chengchi University (NCCU)
@@ -26,7 +27,7 @@
     <div class="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
       <div class="p-5 border border-gray-200 rounded-xl">
         <h3 class="font-medium text-[#0e1b40]">Frontend</h3>
-        <p class="mt-2 text-gray-600">Vue 3, Vite, Tailwind CSS, Pinia, Vue Router</p>
+        <p class="mt-2 text-gray-600">Vue 3, Vite, Tailwind CSS, Vue Router</p>
       </div>
       <div class="p-5 border border-gray-200 rounded-xl">
         <h3 class="font-medium text-[#0e1b40]">Data & Tools</h3>
@@ -34,7 +35,7 @@
       </div>
       <div class="p-5 border border-gray-200 rounded-xl">
         <h3 class="font-medium text-[#0e1b40]">Others</h3>
-        <p class="mt-2 text-gray-600">UI/UX, 可用性測試、簡報與協作</p>
+        <p class="mt-2 text-gray-600">UI/UX, Slide Designing</p>
       </div>
     </div>
   </section>

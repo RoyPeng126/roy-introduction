@@ -14,11 +14,11 @@
     <div class="mt-10 grid gap-6 md:grid-cols-3">
       <div class="p-6 rounded-2xl bg-white shadow hover:shadow-lg transition">
         <h3 class="text-lg font-semibold text-[#0e1b40]">Backend</h3>
-        <p class="mt-2 text-gray-500">Java / Spring Boot, REST API, SQL</p>
+        <p class="mt-2 text-gray-500">Java / Spring Boot, RESTful API, SQL</p>
       </div>
       <div class="p-6 rounded-2xl bg-white shadow hover:shadow-lg transition">
         <h3 class="text-lg font-semibold text-[#0e1b40]">Frontend</h3>
-        <p class="mt-2 text-gray-500">Vue 3, Vite, Tailwind CSS, SPA / Router</p>
+        <p class="mt-2 text-gray-500">Vue 3, Vite, Tailwind CSS</p>
       </div>
       <div class="p-6 rounded-2xl bg-white shadow hover:shadow-lg transition">
         <h3 class="text-lg font-semibold text-[#0e1b40]">Data & DevOps</h3>
@@ -82,7 +82,7 @@
     <!-- CTA -->
     <div class="mt-12 flex items-center justify-between gap-6 flex-col md:flex-row">
       <p class="text-gray-600">
-        Want the full list of courses, certs, and side projects?
+        View portfolio to see side projects
       </p>
       <RouterLink
         to="/portfolio"
@@ -104,9 +104,9 @@ const skills = [
 ]
 
 const tools = [
-  'Spring Boot', 'MySQL', 'PostgreSQL', 'Redis',
-  'Node.js', 'Express', 'REST / OpenAPI',
-  'Vite', 'Vue Router', 'Pinia',
-  'Tailwind CSS', 'Docker', 'GitHub Actions',
+  'Spring Boot', 'MySQL', 'PostgreSQL',
+  'Node.js', 'RESTful API',
+  'Vite', 'Vue Router',
+  'Tailwind CSS', 'GitHub Actions',
 ]
 </script>
