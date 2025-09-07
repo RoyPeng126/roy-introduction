@@ -9,7 +9,7 @@
         English Name: YU-CHENG (ROY) PENG<br>
         Birth: 2004/12/06<br>
         Interest: Music, Workout<br>
-        School: National Chengchi University (NCCU)
+        School: National Chengchi University (NCCU)<br>
         Department: Manage Information System (MIS)<br>
         Goals: To grow as a software engineer and contribute to impactful projects in tech and business.<br>
 
