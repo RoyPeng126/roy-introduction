@@ -45,15 +45,3 @@ npm run dev
 ``` bash
 npm run build
 ```
-
-## 📬 聯絡方式
-
--   **Email:** <roypengsan@gmail.com>\
--   **GitHub:** [RoyPeng126](https://github.com/RoyPeng126)\
--   **LinkedIn:** [Roy
-    Peng](https://www.linkedin.com/in/roy-peng-593596324)
-
-------------------------------------------------------------------------
-
-© 2025 Roy Website. All rights reserved.\
-本網站以 **Tailwind CSS** 與 **Vue.js** 建立。
