@@ -23,7 +23,7 @@
 下載專案：
 
 ``` bash
-git clone https://github.com/<你的帳號>/roy-inroduction.git
+git clone https://github.com/RoyPeng126/roy-inroduction.git
 cd roy-inroduction
 ```
 
