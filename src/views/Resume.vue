@@ -6,9 +6,13 @@
 
     <!-- 內嵌 PDF -->
     <iframe 
-      src="/Resume.pdf" 
+      :src="pdfSrc"
       class="w-full h-[800px] border rounded-lg shadow"
       title="My Resume"
     ></iframe>
   </section>
 </template>
+
+<script setup>
+const pdfSrc = `${import.meta.env.BASE_URL}Resume.pdf`
+</script>
