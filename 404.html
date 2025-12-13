@@ -7,9 +7,12 @@
     <script>
       // Preserve the requested path then send users to the SPA entry so the router can handle it.
       (function () {
-        var base = '/roy-introduction'
+        // Figure out the repo base from the URL (works for both user and project pages)
+        var pathParts = window.location.pathname.split('/')
+        var base = pathParts.length > 1 ? '/' + pathParts[1] : '' // e.g. '/roy-introduction'
+
         var redirectPath = window.location.pathname.replace(base, '') + window.location.search + window.location.hash
-        sessionStorage.setItem('redirectPath', redirectPath)
+        sessionStorage.setItem('redirectPath', redirectPath || '/')
         window.location.replace(base + '/')
       })()
     </script>
