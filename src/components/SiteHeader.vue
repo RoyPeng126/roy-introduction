@@ -49,7 +49,7 @@
           <!-- 外部連結可以保留 a -->
           <a class="px-8 py-2.5 text-white lg:text-[#192b4a] lg:hover:bg-[#192b4a] lg:hover:text-white 
                    duration-300 transition-colors font-medium lg:mx-4 border-2 lg:border-[#192b4a] border-white"
-             href="/Resume.pdf" target="_blank">
+             :href="cvHref" target="_blank">
             Downloading CV
           </a>
         </nav>
@@ -63,4 +63,5 @@ import { ref } from 'vue'
 import { RouterLink } from 'vue-router'
 
 const isOpen = ref(false)
+const cvHref = `${import.meta.env.BASE_URL}Resume.pdf`
 </script>
