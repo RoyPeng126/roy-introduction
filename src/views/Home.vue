@@ -27,7 +27,7 @@
   <section class="bg-[#0e1b40] mt-12">
     <div class="container flex flex-col px-6 py-16 mx-auto mt-12">
       <div class="order-2 mt-8 lg:order-1 lg:mt-0 lg:flex lg:items-center lg:-mx-6">
-        <img class="object-cover w-full lg:w-1/2 lg:mx-6 h-72 lg:h-96"   src="https://camo.githubusercontent.com/b6f63553c803333414ae24b36bb819a1a24050d412d68a7da5324a9b6ab032c1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d526f7950656e67313236266c61796f75743d636f6d70616374267468656d653d7768697465"
+        <img class="object-cover w-full lg:w-1/2 lg:mx-6 h-72 lg:h-96"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&bg_color=0e1b3f&title_color=ffffff&text_color=d6e4ff&icon_color=7aa2f7&hide_border=true"
   alt="GitHub Readme Stats">
         
         <div class="mt-8 lg:w-1/2 lg:mx-6 lg:mt-0">
@@ -83,14 +83,16 @@
         </div>
 
         <div class="md:-mx-4 md:flex md:items-center">
-          <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="/nightmarket.png" alt="">
+          <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="/ai.png" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Snack Hunter – Night Market Search</h2>
-  
-            <p class="mt-2 text-gray-500">A multi-tier project to search Taiwanese night-market foods: Java Spring Boot backend with keyword extraction & re-ranking.</p>
-  
-            <p class="mt-4 italic text-gray-600">January, 2025</p>
+            <h2 class="font-serif text-2xl font-medium text-gray-700">AI Companion</h2>
+
+            <p class="mt-2 text-gray-500">
+              An AI-powered companion system integrating LLM-based conversation, voice interaction, and backend APIs to support daily reminders, emotional companionship, and elder care scenarios.
+            </p>
+
+            <p class="mt-4 italic text-gray-600">December, 2025</p>
           </div>
         </div>
 

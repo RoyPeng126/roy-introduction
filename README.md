@@ -27,8 +27,8 @@
 下載專案：
 
 ``` bash
-git clone https://github.com/<你的帳號>/roy-inroduction.git
-cd roy-inroduction
+git clone https://github.com/<你的帳號>/roy-introduction.git
+cd roy-introduction
 ```
 
 安裝套件：

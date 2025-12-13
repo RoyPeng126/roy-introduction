@@ -8,31 +8,34 @@
 
     <!-- Project Cards -->
     <div class="grid gap-8 mt-10 sm:grid-cols-2 lg:grid-cols-3">
-    <!-- Project 1 -->
-    <div class="flex flex-col border rounded-lg shadow hover:shadow-lg transition p-4">
-    <img
-        src="/nightmarket.png"
-        alt="Snack Hunter – Night Market Search"
-        class="rounded-md mb-4 h-48 w-full object-cover"
-    />
-    <h3 class="text-xl font-semibold">Snack Hunter – Night Market Search</h3>
-    <p class="mt-2 text-gray-600 text-sm flex-grow">
-        A multi-tier project to search Taiwanese night-market foods:
-        Java Spring Boot backend with keyword extraction & re-ranking,
-        Python Flask API for search/fetch, plus an iOS SwiftUI app.
-    </p>
-    <div class="mt-3 flex gap-2 text-xs flex-wrap">
-        <span class="px-2 py-1 bg-indigo-100 text-indigo-700 rounded">Spring Boot</span>
-        <span class="px-2 py-1 bg-emerald-100 text-emerald-700 rounded">Flask</span>
-        <span class="px-2 py-1 bg-sky-100 text-sky-700 rounded">SwiftUI</span>
-        <span class="px-2 py-1 bg-yellow-100 text-yellow-700 rounded">Google CSE</span>
-    </div>
-    <a
-        href="https://github.com/RoyPeng126/DS_Project"
-        target="_blank"
-        class="inline-block mt-4 text-emerald-600 hover:underline"
-    >View Code</a>
-    </div>
+   <!-- Project 1 -->
+<div class="flex flex-col border rounded-lg shadow hover:shadow-lg transition p-4">
+  <img
+    src="/ai-companion.png"
+    alt="AI Companion – Elder Care Assistant"
+    class="rounded-md mb-4 h-48 w-full object-cover"
+  />
+  <h3 class="text-xl font-semibold">AI Companion – Smart Elder Care Assistant</h3>
+
+  <p class="mt-2 text-gray-600 text-sm flex-grow">
+    An AI-powered companion system integrating LLM-based conversation, voice interaction,
+    and backend APIs to support daily reminders, emotional companionship, and elder care scenarios.
+  </p>
+
+  <div class="mt-3 flex gap-2 text-xs flex-wrap">
+    <span class="px-2 py-1 bg-indigo-100 text-indigo-700 rounded">Backend API</span>
+    <span class="px-2 py-1 bg-emerald-100 text-emerald-700 rounded">LLM Integration</span>
+    <span class="px-2 py-1 bg-sky-100 text-sky-700 rounded">Speech (STT/TTS)</span>
+    <span class="px-2 py-1 bg-yellow-100 text-yellow-700 rounded">Prompt Design</span>
+  </div>
+
+  <a
+    href="https://github.com/RoyPeng126/ai_companion"
+    target="_blank"
+    class="inline-block mt-4 text-emerald-600 hover:underline"
+  >View Code</a>
+</div>
+
 
     <!-- Project 2 -->
     <div class="flex flex-col border rounded-lg shadow hover:shadow-lg transition p-4">
