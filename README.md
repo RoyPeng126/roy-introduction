@@ -18,17 +18,13 @@
 -   [Tailwind CSS](https://tailwindcss.com/) -- CSS 樣式框架
 -   [Vite](https://vitejs.dev/) -- 前端開發建構工具
 
-## 📷 畫面預覽
-
-（之後可以加入 Home / Skills / Portfolio 頁面的截圖）
-
 ## 🔧 專案安裝與執行
 
 下載專案：
 
 ``` bash
-git clone https://github.com/<你的帳號>/roy-introduction.git
-cd roy-introduction
+git clone https://github.com/RoyPeng126/roy-inroduction.git
+cd roy-inroduction
 ```
 
 安裝套件：
@@ -49,15 +45,3 @@ npm run dev
 ``` bash
 npm run build
 ```
-
-## 📬 聯絡方式
-
--   **Email:** <roypengsan@gmail.com>\
--   **GitHub:** [RoyPeng126](https://github.com/RoyPeng126)\
--   **LinkedIn:** [Roy
-    Peng](https://www.linkedin.com/in/roy-peng-593596324)
-
-------------------------------------------------------------------------
-
-© 2025 Roy Website. All rights reserved.\
-本網站以 **Tailwind CSS** 與 **Vue.js** 建立。
