@@ -13,14 +13,6 @@
          This website is built with Tailwind CSS and Vue.js, featuring a modern component-based architecture and fully responsive design.
         </p>
       </div>
-
-      <div class="flex flex-col space-y-4">
-        <a href="/Home" class="text-white hover:text-gray-300">Home</a>
-        <a href="/About" class="text-white hover:text-gray-300">About</a>
-        <a href="/Skills" class="text-white hover:text-gray-300">Skills</a>
-        <a href="/Portfolio" class="text-white hover:text-gray-300">Portfolio</a>
-        <a href="/Resume" class="text-white hover:text-gray-300">Resume</a>
-      </div>
       
       <div>
         <p class="font-medium text-white capitalize">Connect</p>
