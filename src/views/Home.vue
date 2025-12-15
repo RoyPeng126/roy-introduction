@@ -39,9 +39,9 @@
             NCCU MIS student focused on Java/Spring Boot, Node.js, and data pipelines.
           </p>
           
-          <a class="inline-flex px-6 py-3 mt-6 text-white border-2 border-white hover:bg-[#192b4a] duration-300 transition-colors" href="/Skills">
+          <RouterLink class="inline-flex px-6 py-3 mt-6 text-white border-2 border-white hover:bg-[#192b4a] duration-300 transition-colors" to="/Skills">
             Learn More
-          </a>
+          </RouterLink>
         </div>
       </div>
     </div>
