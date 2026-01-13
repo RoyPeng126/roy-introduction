@@ -99,22 +99,21 @@
         <div class="md:-mx-4 md:flex md:items-center">
         <img
             class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0"
-            src="/ticket.png"
-            alt="Second Hand Ticket Platform"
+            src="/basketball.png"
+            alt="3D Basketball Game"
         />
 
         <div class="mt-6 md:mx-4 md:mt-0">
             <h2 class="font-serif text-2xl font-medium text-gray-700">
-            Second-Hand Ticket Platform
+            3D Basketball Game
             </h2>
 
             <p class="mt-2 text-gray-500">
-            A platform for reselling event tickets, connecting buyers and sellers securely,
-            ensuring affordability and convenience.
+            An arcade-style basketball shooting game built with Unity (3D), featuring drag-to-shoot mechanics, timed stages, score multipliers, multiple balls, and progressive levels.
             </p>
 
             <p class="mt-4 italic text-gray-600">
-            June 2025
+            January, 2026
             </p>
         </div>
         </div>
