@@ -59,17 +59,25 @@
         <li class="mb-8 ms-6">
           <span class="absolute -start-2.5 mt-1 w-4 h-4 rounded-full bg-[#192b4a] border-2 border-white"></span>
           <h3 class="text-xl font-semibold">NCCU Commerce Career Ambassador (CCA)</h3>
-          <time class="text-white/70 text-sm">Apr 2024 — Jun 2025</time>
+          <time class="text-white/70 text-sm">Apr 2024 — June 2025</time>
           <p class="mt-2 text-white/90">
             Promoted and represented the College of Commerce at National Chengchi University.
           </p>
         </li>
         <li class="mb-8 ms-6">
           <span class="absolute -start-2.5 mt-1 w-4 h-4 rounded-full bg-[#192b4a] border-2 border-white"></span>
-          <h3 class="text-xl font-semibold">HCT Logistics — Intern</h3>
-          <time class="text-white/70 text-sm">Jul 2025 — Aug 2025</time>
+          <h3 class="text-xl font-semibold">HCT Logistics — IT Intern</h3>
+          <time class="text-white/70 text-sm">July 2025 — Aug 2025</time>
           <p class="mt-2 text-white/90">
             Gained hands-on experience in software development, project modification, and technical learning.
+          </p>
+        </li>
+                <li class="mb-8 ms-6">
+          <span class="absolute -start-2.5 mt-1 w-4 h-4 rounded-full bg-[#192b4a] border-2 border-white"></span>
+          <h3 class="text-xl font-semibold">Deloitte Taiwan — Cyber Intern</h3>
+          <time class="text-white/70 text-sm">Feb 2026 — June 2026</time>
+          <p class="mt-2 text-white/90">
+            Analyzed security and governance risks in enterprise adoption of GenAI across multi-cloud environments, focusing on IAM, data privacy, model security, API integration, and compliance.
           </p>
         </li>
       </ol>
