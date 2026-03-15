@@ -4,15 +4,14 @@
     <div>
       <h1 class="font-serif text-4xl md:text-5xl text-[#0e1b40]">About Me</h1>
       <p class="mt-4 text-gray-600">
-        Hi, my name is Roy. I am a student who learning programming langguage, here is my profile:<br>
+        Hi, my name is Roy. I am a student passionate about software development, AI, and data-driven technologies, here is my profile:<br>
         Name: 彭宇承<br>
         English Name: YU-CHENG (ROY) PENG<br>
         Birth: 2004/12/06<br>
         Interest: Music, Workout<br>
         School: National Chengchi University (NCCU)<br>
-        Department: Manage Information System (MIS)<br>
-        Goals: To grow as a software engineer and contribute to impactful projects in tech and business.<br>
-
+        Department: Manage Information Systems (MIS)<br>
+        Goals: To leverage technology and data to build impactful digital products and innovative solutions in business and society.<br>
       </p>
     </div>
 
