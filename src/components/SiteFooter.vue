@@ -50,7 +50,7 @@
     </div>
     
     <p class="w-full py-6 mx-auto text-white text-center bg-[#06112e]">
-      &copy; 2025 Roy Website All rights reserved.
+      &copy; 2026 Roy Website All rights reserved.
     </p>
   </footer>
 </template>
