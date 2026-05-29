@@ -27,7 +27,7 @@
   <section class="bg-[#0e1b40] mt-12">
     <div class="container flex flex-col px-6 py-16 mx-auto mt-12">
       <div class="order-2 mt-8 lg:order-1 lg:mt-0 lg:flex lg:items-center lg:-mx-6">
-        <img class="object-cover w-full lg:w-1/2 lg:mx-6 h-72 lg:h-96"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&bg_color=0e1b3f&title_color=ffffff&text_color=d6e4ff&icon_color=7aa2f7&hide_border=true"
+        <img class="object-cover w-full lg:w-1/2 lg:mx-6 h-72 lg:h-96"   src="https://github-readme-stats-omega-navy-77.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=8&bg_color=0e1b3f&title_color=ffffff&text_color=d6e4ff&icon_color=7aa2f7&hide_border=true&v=2"
   alt="GitHub Readme Stats">
         
         <div class="mt-8 lg:w-1/2 lg:mx-6 lg:mt-0">
@@ -71,14 +71,15 @@
 
       <div class="mt-8 space-y-8 xl:w-1/2 xl:mx-6 xl:mt-0">
         <div class="md:-mx-4 md:flex md:items-center">
-          <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="/WEBSITE.png" alt="">
+          <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="/CloudPlatform.png" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Introduction Website</h2>
+            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Cloud Security Analysis Platform</h2>
   
-            <p class="mt-2 text-gray-500">This is a website with Tailwind CSS and Vue.js to introduce myself.</p>
+            <p class="mt-2 text-gray-500">A prototype platform that analyzes multi-cloud security logs and transforms them into structured insights through normalization, rule-based detection, and AI-assisted reporting.
+</p>
   
-            <p class="mt-4 italic text-gray-600">September, 2025</p>
+            <p class="mt-4 italic text-gray-600">June, 2026</p>
           </div>
         </div>
 

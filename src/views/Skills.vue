@@ -21,8 +21,8 @@
         <p class="mt-2 text-gray-500">Vue 3, Vite, Tailwind CSS</p>
       </div>
       <div class="p-6 rounded-2xl bg-white shadow hover:shadow-lg transition">
-        <h3 class="text-lg font-semibold text-[#0e1b40]">Data & DevOps</h3>
-        <p class="mt-2 text-gray-500">Python, R, ETL, GitHub Actions</p>
+        <h3 class="text-lg font-semibold text-[#0e1b40]">Cloud & Tools</h3>
+        <p class="mt-2 text-gray-500">AWS, Python, FastAPI, GitHub Actions</p>
       </div>
     </div>
     <!-- Learning timeline bars -->
@@ -65,15 +65,15 @@
         <ul class="mt-3 space-y-2 text-gray-600">
           <li class="flex items-center gap-2">
             <span class="inline-block w-2 h-2 rounded-full bg-amber-500"></span>
-            System Design + High-scale APIs
+            AWS Fundamentals and Cloud Architecture
           </li>
           <li class="flex items-center gap-2">
             <span class="inline-block w-2 h-2 rounded-full bg-indigo-500"></span>
-            Vue & React Architecture (SSR / Components / SEO)
+            System Design and Scalable Web Applications
           </li>
           <li class="flex items-center gap-2">
             <span class="inline-block w-2 h-2 rounded-full bg-sky-500"></span>
-             R & Python for Advanced Data Analysis
+             Product Communication and Technical Documentation
           </li>
         </ul>
       </div>
@@ -97,16 +97,22 @@
 <script setup>
 const skills = [
   { name: 'Java', time: '2 years', level: 90, color: 'bg-amber-600' },
-  { name: 'Python', time: '6 months', level: 60, color: 'bg-sky-500' },
+    { name: 'JavaScript', time: '10 months', level: 75, color: 'bg-yellow-400' },
+  { name: 'Python', time: '8 months', level: 70, color: 'bg-sky-500' },
   { name: 'SQL', time: '6 months', level: 60, color: 'bg-indigo-500' },
-  { name: 'JavaScript', time: '4 months', level: 40, color: 'bg-yellow-400' },
-  { name: 'R', time: '1 month', level: 20, color: 'bg-violet-500' },
+  { name: 'Unity', time: '4 months', level: 45, color: 'bg-neutral-800' },
 ]
 
 const tools = [
-  'Spring Boot', 'MySQL', 'PostgreSQL',
-  'Node.js', 'RESTful API',
-  'Vite', 'Vue Router',
-  'Tailwind CSS', 'GitHub Actions',
+  'Spring Boot',
+  'SQL',
+  'Node.js',
+  'RESTful API',
+  'FastAPI',
+  'Vite',
+  'Vue Router',
+  'GitHub Actions',
+  'Unity',
+  'AWS'
 ]
 </script>

@@ -11,7 +11,7 @@
         Interest: Music, Workout<br>
         School: National Chengchi University (NCCU)<br>
         Department: Manage Information Systems (MIS)<br>
-        Goals: To leverage technology and data to build impactful digital products and innovative solutions in business and society.<br>
+        Goals: To build impactful digital products and cloud-based solutions that connect technology, user needs, and business value.<br>
       </p>
     </div>
 
@@ -29,12 +29,12 @@
         <p class="mt-2 text-gray-600">Vue 3, Vite, Tailwind CSS, Vue Router</p>
       </div>
       <div class="p-5 border border-gray-200 rounded-xl">
-        <h3 class="font-medium text-[#0e1b40]">Data & Tools</h3>
-        <p class="mt-2 text-gray-600">Python (pandas), Excel, Figma, Git/GitHub</p>
+        <h3 class="font-medium text-[#0e1b40]">Cloud & Tools</h3>
+        <p class="mt-2 text-gray-600">AWS, Python, GitHub Actions, Git/GitHub</p>
       </div>
       <div class="p-5 border border-gray-200 rounded-xl">
-        <h3 class="font-medium text-[#0e1b40]">Others</h3>
-        <p class="mt-2 text-gray-600">UI/UX, Slide Designing</p>
+        <h3 class="font-medium text-[#0e1b40]">Product & Design</h3>
+        <p class="mt-2 text-gray-600">UI/UX, Figma, Technical Documentation, Slide Design</p>
       </div>
     </div>
   </section>
