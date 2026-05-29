@@ -74,7 +74,7 @@
           <img class="object-cover w-full h-56 md:h-48 md:mx-4 md:w-80 shrink-0" src="/CloudPlatform.png" alt="">
 
           <div class="mt-6 md:mx-4 md:mt-0">
-            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Cloud Security Analysis Platform</h2>
+            <h2 class="font-serif text-2xl font-medium text-gray-700 ">Cloud Security Platform</h2>
   
             <p class="mt-2 text-gray-500">A prototype platform that analyzes multi-cloud security logs and transforms them into structured insights through normalization, rule-based detection, and AI-assisted reporting.
 </p>
